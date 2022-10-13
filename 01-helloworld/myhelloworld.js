@@ -1,0 +1,11 @@
+console.log("Hello world");
+console.log("Coding guturs" + "Time for some fun");
+var found = true;
+var grade = 88.6;
+var firstName = "kumar";
+var lastName = "hhh";
+found = false;
+var myData = 50;
+myData = false;
+console.log(grade);
+console.log("Hi  ".concat(firstName, " ").concat(lastName, " "));
